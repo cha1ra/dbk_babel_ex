@@ -58,7 +58,7 @@ function hoge (n) {
   
 Expected result:  
   
-ex_1_dbk_[Number].js
+~/dist/ex_1_dbk_[Number].js
 ```javascript
 function donBuRakko(n) {
   return n;
@@ -98,7 +98,7 @@ debug(name)
   
 Expected result:  
   
-ex_1_dbk_[Number].js
+~/dist/ex_1_dbk_[Number].js
 ```javascript
 const debug = str => {
   console.log(`[Debug] ${str}`);
