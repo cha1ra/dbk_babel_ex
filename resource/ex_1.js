@@ -1,3 +1,11 @@
-function rakko (n) {
+function hoge (n) {
+  return n
+}
+
+function fuga (n) {
+  return n
+}
+
+function fhfh (n) {
   return n
 }
