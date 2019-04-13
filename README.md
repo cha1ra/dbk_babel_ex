@@ -8,6 +8,7 @@ https://speakerdeck.com/cha1ra/introduction-of-babel
 
 # Directory Structure
 
+```
 .  
 ├── dist   
 ├── resource  
@@ -16,7 +17,8 @@ https://speakerdeck.com/cha1ra/introduction-of-babel
 ├── server.js  
 └── src  
     ├── rakko.js  
-    └── rm_func.js  
+    └── rm_func.js
+```
 
 - resource ... example JS files
 - src ... main func JS
